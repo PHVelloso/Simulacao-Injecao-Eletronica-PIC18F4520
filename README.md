@@ -30,5 +30,8 @@ O projeto foi desenvolvido e testado utilizando o software Proteus, simulando:
 - Sensor de rotação através de pulsos digitais (Dclock)
 - Acionamento dos bicos injetores por LEDs
 
+  <img width="888" height="439" alt="image" src="https://github.com/user-attachments/assets/3a94a8a7-b3f4-432f-89a2-a123eaa32f6d" />
+
+
  Autor
 Pedro Henrique Velloso da Silva
